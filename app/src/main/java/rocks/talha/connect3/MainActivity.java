@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
                         gameState[winningPosition[1]] == gameState[winningPosition[2]]
                         && gameState[winningPosition[0]] != 2) {
 
-                    //somebody wins
+                    //somebody has won
 
                     gameIsActive = false;
 
